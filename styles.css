@@ -1,0 +1,44 @@
+
+
+.all {
+    max-width: 1000px;
+    max-height: 700px;
+    margin: auto;
+    border: 1px solid rgb(133, 136, 131);
+    border-radius: 3px;
+}
+
+.header {
+    background-color:rgba(181, 177, 212, 0.274);
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid rgb(133, 136, 131);
+    
+}
+
+.alert {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+
+.formulario {
+    padding-left: 15px;
+}
+
+
+.icono {
+    display: flex;
+    flex-direction: row;
+}
+
+.buttons {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-top: 1px solid rgb(133, 136, 131);
+    border-radius: 3px;
+    
+}
